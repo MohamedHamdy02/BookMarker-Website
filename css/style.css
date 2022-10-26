@@ -1,0 +1,29 @@
+
+
+.width {
+    width: 95%;
+    margin: auto;
+}
+
+hr {
+    width: 95%;
+    margin: auto;
+}
+
+.row {
+    width: 90%;
+    margin: auto;
+}
+
+.col-md-12 {
+    background-color: #eee;
+}
+
+.btn:hover {
+    background-color: #0a3f77;
+    box-shadow: 2px 5px 3px 0px #888;
+}
+
+#bookMarkerList {
+    flex-direction: column;
+}
